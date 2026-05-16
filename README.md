@@ -15,6 +15,14 @@
 
 **A production-grade, cloud-native event management platform built on AWS**
 
+## 🚀 Try the Project Live
+
+<p align="center">
+  <a href="https://d70jc8rzqeqs.cloudfront.net/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20PROJECT-CLICK%20HERE-0A66C2?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+</p>
+
 <br/>
 
 [![AWS](https://img.shields.io/badge/AWS-Powered-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
