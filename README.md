@@ -253,7 +253,7 @@ This project goes beyond "just making it work" — it follows cloud security bes
 I'm passionate about building secure, scalable infrastructure on AWS and automating everything that can be automated. This project is part of my portfolio of hands-on cloud engineering work.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ammar--DevopsSecurity-181717?style=for-the-badge&logo=github)](https://github.com/Ammar-DevopsSecurity)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammar%20DevOps%20Security-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-devopssecurity-82510340a)
 
 </div>
 
